@@ -1,16 +1,26 @@
-# 💫 About Me:
-🔭 I’m currently study on Aleppo university <br>👯 I’m looking to collaborate on smart tac team <br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Hello 👋,I'm <em> Abdulfatah </em> </h1>
+<div align="left" >
+🌱 I’m currently Working on a Web App(React-Next) for my unniversity <br />
+🤝 I’m available for freelancing <br />
+📝 I regularly make some articles in my field on my LinkedIn account <br />
+🌱 I’m currently learning advanced topics about (React, CSS, JS, nodejs) <br />
+💬 Ask me about Reactjs & NextJs & Typescript & Javascript <br />
+📫 How to reach me  <a href="mailto:businessabdo9@gmail.com">businessabdo9@gmail.com</a><br />
+</div>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,html,css,nodejs,express,mysql,mongodb,vscode,materialui,vite,jest,git,github,gitlab,bootstrap,figma,postman,discord)](https://skillicons.dev)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=A-sleh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=A-sleh&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-sleh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<h1 >Technologies That I Know 👨🏻‍💻</h1>
 
----
-[![](https://visitcount.itsvg.in/api?id=A-sleh&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Technologies That I Know👨🏻‍💻](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,vite,nextjs,svelte,tailwind,materialui,bootstrap,express,mysql,mongodb,vscode,jest,git,github,gitlab,figma,postman)](https://skillicons.dev)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h1 >GitHub Stats 📊</h1>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=A-sleh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=A-sleh&theme=dark&hide_border=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-sleh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+      
+
+
+
+
+
