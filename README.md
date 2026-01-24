@@ -14,11 +14,13 @@
 [![Technologies That I Know👨🏻‍💻](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,redux,vite,nextjs,svelte,tailwind,materialui,bootstrap,express,mysql,mongodb,vscode,jest,git,github,gitlab,figma,postman)](https://skillicons.dev)
 
 <h1 >GitHub Stats 📊</h1>
+<div align="center">
   
   ![](https://github-readme-stats.vercel.app/api?username=A-sleh&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
   ![](https://nirzak-streak-stats.vercel.app/?user=A-sleh&theme=dark&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-sleh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-      
+
+</div>
 
 
 
